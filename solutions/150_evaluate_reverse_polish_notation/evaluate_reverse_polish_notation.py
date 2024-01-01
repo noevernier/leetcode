@@ -9,10 +9,16 @@ class Solution:
                 right_operand = int(stack.pop())
                 stack.append(str(left_operand+right_operand))
             elif e=="-":
-                stack = []
+                left_operand = int(stack.pop())
+                right_operand = int(stack.pop())
+                stack.append(str(left_operand-right_operand))
             elif e=="*":
-                stack = []
+                left_operand = int(stack.pop())
+                right_operand = int(stack.pop())
+                stack.append(str(left_operand*right_operand))
             elif e=="/":
-                stack = []
+                left_operand = int(stack.pop())
+                right_operand = int(stack.pop())
+                stack.append(str(left_operand/right_operand))
             else:
                 stack.append(e)
