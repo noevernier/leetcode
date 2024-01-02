@@ -13,6 +13,5 @@ class Solution:
                 result.append(e+"()")
             return list(set(result))
         
-
 solution = Solution()
 print(len(solution.generateParenthesis(5)))
