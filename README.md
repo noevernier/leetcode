@@ -10,6 +10,7 @@ Sure, I'll complete the table with the provided LeetCode problem numbers and the
 
 | Number | Problem | Theme | Difficulty | Languages |
 |--------|---------|-------|------------|-----------|
+| [1704](https://github.com/noevernier/leetcode/tree/main/solutions/1704_determine_if_string_halves_are_alike) | Determine if String Halves Are Alike | String | <img src="https://img.shields.io/badge/Easy-green"> | <img src="https://cdn.svgporn.com/logos/ocaml.svg" alt="OCaml" height="20" /> |
 | [1026](https://github.com/noevernier/leetcode/tree/main/solutions/1026_maximum_difference_between_node_and_ancestor) | Maximum Difference Between Node and Ancestor | Tree / DFS / BFS | <img src="https://img.shields.io/badge/Medium-orange"> | <img src="https://cdn.svgporn.com/logos/ocaml.svg" alt="OCaml" height="20" /> |
 | [875](https://github.com/noevernier/leetcode/tree/main/solutions/875_koko_eating_bananas) | Koko Eating Bananas | Binary Search | <img src="https://img.shields.io/badge/Medium-orange"> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="20" /> |
 | [704](https://github.com/noevernier/leetcode/tree/main/solutions/704_binary_search) | Binary Search | Binary Search | <img src="https://img.shields.io/badge/Easy-green"> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="20" /> |
