@@ -10,6 +10,7 @@ Sure, I'll complete the table with the provided LeetCode problem numbers and the
 
 | Number | Problem | Theme | Difficulty | Languages |
 |--------|---------|-------|------------|-----------|
+| [2225](https://github.com/noevernier/leetcode/tree/main/solutions/2966_divide_array_into_arrays_with_max_difference) | Divide Array Into Arrays With Max Difference | Greedy | <img src="https://img.shields.io/badge/Medium-orange"> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="20" /> |
 | [2225](https://github.com/noevernier/leetcode/tree/main/solutions/2225_find_players_with_zero_or_one_losses) | Find Players with Zero or One Losses | Array | <img src="https://img.shields.io/badge/Medium-orange"> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="20" /> |
 | [1704](https://github.com/noevernier/leetcode/tree/main/solutions/1704_determine_if_string_halves_are_alike) | Determine if String Halves Are Alike | String | <img src="https://img.shields.io/badge/Easy-green"> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="20" /> |
 | [1657](https://github.com/noevernier/leetcode/tree/main/solutions/1657_determine_if_two_strings_are_close) | Determine if Two Strings Are Close | String | <img src="https://img.shields.io/badge/Medium-orange"> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="20" /> |
